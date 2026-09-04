@@ -1,4 +1,4 @@
-# Mental Health Signal
+# Mental Health Metrics
 
 **A full-stack ML web app that models student wellness from daily habits — screen time, sleep, study load, and stress — and returns a predicted mental health score in real time.**
 
