@@ -2,14 +2,6 @@
 
 **A full-stack ML web app that models student wellness from daily habits — screen time, sleep, study load, and stress — and returns a predicted mental health score in real time.**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/Deployed%20on-Render-46E3B7?style=flat-square&logo=render&logoColor=white" alt="Render" />
-  <img src="https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square" alt="License" />
-</p>
-
 **Live app:** [mental-health-metrics.onrender.com](https://mental-health-metrics.onrender.com)
 **Repository:** [github.com/kushhcodes/mental_health_metrics](https://github.com/kushhcodes/mental_health_metrics)
 
